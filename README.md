@@ -5,7 +5,7 @@ The website is built using Vite, React, TypeScript, and Tailwind CSS, with smoot
 
 
 
-
+Checkout the Live Webite: https://x2-scout.vercel.app/
 
 
 
@@ -57,6 +57,8 @@ Tailwind CSS (For efficient styling and responsiveness)
 GSAP (GreenSock) (For smooth animations and transitions)
 
 Vite (For fast build times and optimized development experience)
+
+Vercel For Deployment 
 
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
